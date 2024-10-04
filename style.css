@@ -1,5 +1,23 @@
 /* Your code here */
 .card-1{
 background-color: black;
-color: white;
+color: white; 
+border: solid rgb(250, 99, 99);
+}
+
+.title{
+font-family: Sixtyfour Convergence;
+margin-top: 20px; 
+text-align: center;
+font-size: larger;
+} 
+
+.subtext{
+  font-family: "Source Code Pro", monospace; 
+  font-size: small; 
+  text-align: center;
+}
+
+.img{ 
+  margin-top: 60px;
 }
