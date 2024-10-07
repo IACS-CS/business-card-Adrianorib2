@@ -19,5 +19,15 @@ font-size: larger;
 }
 
 .img{ 
-  margin-top: 60px;
+  margin-top: 57px; 
+  border: solid rgb(250, 99, 99); 
+  margin-left: 105px;
+ 
+  
+} 
+
+.img2{
+  margin-top: 57px;
+  border: solid rgb(250, 99, 99); 
+  margin-left: 10px; 
 }
